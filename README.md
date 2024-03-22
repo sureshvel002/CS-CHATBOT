@@ -1,4 +1,4 @@
-# chatbot
+# CUSTOMER SUPPORT CHATBOT
 
 ## Features
 
@@ -25,7 +25,7 @@ List the key features of your application.
 ![Screenshot](https://raw.githubusercontent.com/sureshvel002/CS-CHATBOT/main/client-FRONTEND/screenshots/output.png)
 ## Usage
 
-To use the application, simply open it in your web browser and start chatting with the personal assistant. You can ask questions, seek assistance, or engage in conversation.
+To use the application, simply open it in your web browser and start chatting with the customer support assistant. You can ask questions, seek assistance, or engage in conversation.
 
 ## Technologies Used
 
